@@ -6,9 +6,9 @@
     "branch"       : "twelve-wip"
   },
   {
-    "repository"  : "classified/vendor_oneplus_hotdogb",
+    "repository"  : "vendor_oneplus_hotdogb",
     "target_path" : "vendor/oneplus/hotdogb",
     "branch"      : "twelve",
-    "remote"      : "github"
+    "remote"      : "pixel-devices-blobs"
   }
 ]
