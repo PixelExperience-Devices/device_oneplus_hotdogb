@@ -5,6 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
+
     <!-- Defines the actions shown in advanced reboot submenu -->
     <string-array name="config_restartActionsList">
         <item>restart</item>
@@ -12,4 +13,8 @@
         <item>restart_bootloader</item>
         <item>restart_fastboot</item>
      </string-array>
+
+    <!-- Display has physical cutout -->
+    <bool name="config_physicalDisplayCutout">true</bool>
+
 </resources>
